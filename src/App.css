@@ -6,7 +6,7 @@
  
   
   .imagem_perfil {
-    width: 150px; /* Tamanho padrão menor para telas pequenas */
+    width: 170px; /* Tamanho padrão menor para telas pequenas */
     height: auto; 
     display: block;
     margin: 0 auto; /* Centraliza a imagem horizontalmente */
@@ -23,8 +23,9 @@
       margin-bottom: 70px;
       margin-top: 90px; 
       
-       
+      
 
     }
+
   }
   
